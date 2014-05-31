@@ -1,0 +1,21 @@
+% Shaun Mbateng %
+% Homework 4_2.m %
+% November 2, 2010 %
+% This Part Plots the Fuel Line Pressure Data %
+
+clc
+
+disp('Shaun Mbateng')
+disp('Homework 4 Part 2')
+disp('November 2, 2010')
+disp(' ')
+
+s = [1:1:10];
+psi = [26.1 27.0 28.2 29.0 29.8 30.6 31.1 31.3 31.0 30.5];
+co = polyfit(s,psi,1)
+psi1 = [coeff(
+plot(s,psi,'o')
+xlabel('Time, (s), Seconds')
+ylabel('Pressure, (psi), Pounds per Square Inch')
+title('Fuel Line Pressure Data')
+grid

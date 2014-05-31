@@ -1,0 +1,9 @@
+% Shaun Mbateng
+% DD 297 Final Test A
+% December 10, 2010
+% Question 4 Function
+function xi = Normalize(vi);
+    %Takes Inputted Vector, Normalizes It, Outputs Normalized Vector
+    vsum = sum(vi.^2);
+    xi = sqrt(vsum);
+end

@@ -1,0 +1,19 @@
+% Shaun Mbateng %
+% Homework 5_4.m %
+% November 16, 2010 %
+function x = Position(t)
+    % Given the time, finds the position of a particle in meters
+    for
+        if 0<= t & t<=10
+            x = 0.5.*t.^2;
+        elseif 10<t & t<20
+            x = 0.05.*t.^3 - t.^2 + 15.*t - 50;
+        elseif 20<=t & t<=30
+            x = 0.0025.*t.^4 - 0.15.*t.^3 + 135.*t - 1650;
+        else
+            x = 0;
+        end
+    end
+
+end
+

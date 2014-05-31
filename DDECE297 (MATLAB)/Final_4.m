@@ -1,0 +1,16 @@
+% Shaun Mbateng
+% DD 297 Final Test A
+% December 10, 2010
+% Question 4
+
+clear
+clc
+
+% Part b
+disp('Final Quesion 4 Part b')
+vi = input('Enter Vector to be Normalized\n');
+xi = Normalize(vi);
+table = [vi;xi];
+disp(' ')
+disp('  vi     xi')
+fprintf('%.3f   %.3f\n',table)

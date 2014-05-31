@@ -1,0 +1,24 @@
+% Shaun Mbateng %
+% Homework 3_4.m %
+% October 6, 2010 %
+% Random Integers Vector %
+
+clc
+
+disp('Shaun Mbateng')
+disp('Homework 3 Part 4')
+disp('October 6, 2010')
+disp(' ')
+
+V = round((200-20)*rand(1,12) + 20) 
+
+% Part a %
+disp('Part a')
+[maximum position] = max(V);
+m = position;
+fprintf('The greatest number in the vector is %g.\n It is number %g of 12\n', max(V),m)
+% Part b %
+disp(' ')
+disp('Part b')
+V2 = sort(V)
+fprintf('Vector Sorted in Ascending Order: %.0f',V2)

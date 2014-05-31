@@ -1,0 +1,12 @@
+% Shaun Mbateng %
+% Practice 10 %
+% December 9, 2010 %
+
+clear
+clc
+
+% 10.6 Problem 4 Page 307
+
+fplot('
+
+

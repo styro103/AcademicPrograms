@@ -1,0 +1,11 @@
+% Shaun Mbateng %
+% Homework 5_2.m %
+% November 16, 2010 %
+function HM = Harmonic(n,x)
+    % Finds Harmonic Mean
+    n = length(x)
+    H
+
+
+end
+

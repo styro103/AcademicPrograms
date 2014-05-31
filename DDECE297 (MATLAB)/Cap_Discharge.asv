@@ -1,0 +1,11 @@
+% Shaun Mbateng %
+% Capacitor Discharge %
+% October 28, 2010 %
+
+clc
+
+t = [0, 10, 20, 40];
+v = [120, 45, 15, 2];
+t2 = [0:.1:40];
+v2 = 113*exp(-0.098*t2);
+subplot(3,1

@@ -1,0 +1,35 @@
+% Practice 2 %
+% Shaun Mbateng %
+% September 9, 2010 %
+
+clc
+clear
+
+disp('Shaun Mbateng')
+disp('Practice 2')
+disp('September 9, 2010')
+disp(' ')
+
+disp ('Problem 1')
+% Problem 1 %
+A = [1,2;3,4]
+B = [2,4;6,8]
+
+disp ('Problem 2')
+% Problem 2 %
+t = [0:1:8]
+y = [5.*sqrt(t) - ((t + 2).^2)./(0.5.*(t + 1)) + 8]
+
+disp ('Problem 3')
+% Problem 3 %
+AvgSpeed = [50.2,45.0,35.7,48.3,42.0]
+Time = [5,7.5,3.45,6.8,8]
+Miles = [AvgSpeed.*Time]
+sum(Miles)
+
+disp ('Challenge Problem')
+% Problem 4 (Challenge Problem) %
+y = 3
+R = [4:1:6]
+theta = 30
+V = [((pi.*R.^3)./(3.*tand(theta))) - (pi./3).*(R - y.*tand(theta)).^2.*(R./tand(theta) - y)]

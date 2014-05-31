@@ -1,0 +1,16 @@
+% Shaun Mbateng %
+% Practice 6 %
+% October 21, 2010 %
+
+clc
+
+disp('Shaun Mbateng')
+disp('Practice 6')
+disp('October 21, 2010')
+disp(' ')
+
+t = [0 10 20 40]
+t2 = [0:0.1:40];
+V = [120 45 15 2]
+V2 = 113.*exp(-0.098.*t2);
+plot

@@ -1,0 +1,14 @@
+% Shaun Mbateng %
+% Homework 5_2.m %
+% November 16, 2010 %
+% Finds Angles of A Triangle %
+clc
+
+format bank
+
+a = input('Side a  ');
+b = input('Side b  ');
+c = input('Side c  ');
+A = 
+B = 
+C = 

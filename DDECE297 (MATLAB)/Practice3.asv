@@ -1,0 +1,25 @@
+% Shaun Mbateng %
+% Practice 3 %
+% September 16, 2010 %
+
+clc
+
+disp('Shaun Mbateng')
+disp('Practice 2')
+disp('September 9, 2010')
+disp(' ')
+
+A = [1,2;3,4]
+inv(A)
+b = [-1;3]
+x = inv(A)*b
+xAlt = A\b
+
+disp('Problem a')
+a = [6,-3,4;12,5,-7;-5,2,6]
+
+disp('Problem b')
+b = [12,-5,0;-3,4,7;6,2,3]
+
+disp('Problem c')
+c = [2.5,5,-2,1;18,-6.2,25,10;28,-15,-30,25;-8,12,0,-3.2]

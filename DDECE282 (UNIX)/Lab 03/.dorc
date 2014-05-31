@@ -1,0 +1,11 @@
+#include <stdio.h>
+# This is a sample .dorc
+# As you can see, this line is a comment
+Application/PostScript ps /usr/bin/ggv
+Application/PDF pdf /usr/local/bin/acroread
+Image/Jpeg jpeg,jpg /usr/local/bin/gimp
+Image/Gif gif /usr/local/bin/gimp
+text/plain txt /usr/local/bin/vim
+text/plain c /usr/local/bin/vim
+text/plain h /usr/local/bin/vim
+Image/fig gif /usr/local/bin/xfig

@@ -1,0 +1,34 @@
+% Shaun Mbateng
+% DD 297 Final Test A
+% December 10, 2010
+% Question 2
+
+clear
+clc
+
+% Part a
+h = [0:3:33];
+D = [1.2 0.91 0.66 0.47 0.31 0.19 0.12 0.075 0.046 0.029 0.018 0.011];
+D1 = 1.5302.*exp(-0.1458.*h);
+coeff = polyfit(h,D,2);
+D2 = coeff(1).*h.^2 + coeff(2).*h + coeff(3);
+
+subplot(2,1,1), plot(h, D, 'o', h, D1, h, D2, ':')
+    grid on
+    xlabel('Standard Air Density, D, kg/m^3')
+    ylabel('Height Above Sea Level, h, km')
+    title('Height vs. Density Graph 1')
+    gtext('Shaun Mbateng')
+    legend('Data Points', 'Exponential Equation', 'Quadratic Equation')
+subplot(2,1,2), semilogy(h, D, 'o', h, D1)
+    grid on
+    xlabel('Standard Air Density, D, kg/m^3')
+    ylabel('Height Above Sea Level, h, km')
+    title('Height vs. Density Graph 1')
+    legend('Data Points', 'Exponential Equation')
+    
+% Part b
+disp('Final Question 2 Part b')
+inter = interp1(h,D,25,'pchip');
+fprintf('The Density at a height of 25 km is %.3f kg/m^3.\n',inter)
+   
