@@ -1,0 +1,11 @@
+\\thomas\smbateng\Programs\SE361\Visual Studio\DiceGame\DiceGame\bin\Debug\DiceGame.exe
+\\thomas\smbateng\Programs\SE361\Visual Studio\DiceGame\DiceGame\bin\Debug\DiceGame.pdb
+\\thomas\smbateng\Programs\SE361\Visual Studio\DiceGame\DiceGame\bin\Debug\DiceGame.xml
+\\thomas\smbateng\Programs\SE361\Visual Studio\DiceGame\DiceGame\obj\x86\Debug\ResolveAssemblyReference.cache
+\\thomas\smbateng\Programs\SE361\Visual Studio\DiceGame\DiceGame\obj\x86\Debug\DiceGame.DiceGame.resources
+\\thomas\smbateng\Programs\SE361\Visual Studio\DiceGame\DiceGame\obj\x86\Debug\DiceGame.Resources.resources
+\\thomas\smbateng\Programs\SE361\Visual Studio\DiceGame\DiceGame\obj\x86\Debug\GenerateResource.read.1.tlog
+\\thomas\smbateng\Programs\SE361\Visual Studio\DiceGame\DiceGame\obj\x86\Debug\GenerateResource.write.1.tlog
+\\thomas\smbateng\Programs\SE361\Visual Studio\DiceGame\DiceGame\obj\x86\Debug\DiceGame.exe
+\\thomas\smbateng\Programs\SE361\Visual Studio\DiceGame\DiceGame\obj\x86\Debug\DiceGame.xml
+\\thomas\smbateng\Programs\SE361\Visual Studio\DiceGame\DiceGame\obj\x86\Debug\DiceGame.pdb

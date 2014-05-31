@@ -1,0 +1,9 @@
+3/22/2012		Transfer from Checking		$10.00		Prev. Bal.		$0.00		New Bal.		$10.00
+3/22/2012		Deposit		$10.00		Prev. Bal.		$10.00		New Bal.		$20.00
+3/22/2012		Withdrawal		$5.00		Prev. Bal.		$20.00		New Bal.		$15.00
+3/22/2012		Transfer from Checking		$5.00		Prev. Bal.		$15.00		New Bal.		$20.00
+3/22/2012		Transfer to Checking		$5.00		Prev. Bal.		$20.00		New Bal.		$15.00
+3/27/2012		Transfer from Checking		$200.00		Prev. Bal.		$0.00		New Bal.		$200.00
+3/27/2012		Deposit		$400.00		Prev. Bal.		$200.00		New Bal.		$600.00
+3/27/2012		Withdrawal		$35.00		Prev. Bal.		$600.00		New Bal.		$565.00
+3/27/2012		Transfer to Checking		$100.00		Prev. Bal.		$565.00		New Bal.		$465.00

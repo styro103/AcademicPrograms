@@ -1,0 +1,38 @@
+T:\Programs\SE361\Microsoft\Visual Studio\CoffeeVendingMachine\CoffeeVendingMachine\bin\Debug\CoffeeVendingMachine.exe
+T:\Programs\SE361\Microsoft\Visual Studio\CoffeeVendingMachine\CoffeeVendingMachine\bin\Debug\CoffeeVendingMachine.pdb
+T:\Programs\SE361\Microsoft\Visual Studio\CoffeeVendingMachine\CoffeeVendingMachine\bin\Debug\CoffeeVendingMachine.xml
+T:\Programs\SE361\Microsoft\Visual Studio\CoffeeVendingMachine\CoffeeVendingMachine\obj\x86\Debug\ResolveAssemblyReference.cache
+T:\Programs\SE361\Microsoft\Visual Studio\CoffeeVendingMachine\CoffeeVendingMachine\obj\x86\Debug\CoffeeVendingMachine.MainForm.resources
+T:\Programs\SE361\Microsoft\Visual Studio\CoffeeVendingMachine\CoffeeVendingMachine\obj\x86\Debug\CoffeeVendingMachine.Resources.resources
+T:\Programs\SE361\Microsoft\Visual Studio\CoffeeVendingMachine\CoffeeVendingMachine\obj\x86\Debug\GenerateResource.read.1.tlog
+T:\Programs\SE361\Microsoft\Visual Studio\CoffeeVendingMachine\CoffeeVendingMachine\obj\x86\Debug\GenerateResource.write.1.tlog
+T:\Programs\SE361\Microsoft\Visual Studio\CoffeeVendingMachine\CoffeeVendingMachine\obj\x86\Debug\CoffeeVendingMachine.exe
+T:\Programs\SE361\Microsoft\Visual Studio\CoffeeVendingMachine\CoffeeVendingMachine\obj\x86\Debug\CoffeeVendingMachine.xml
+T:\Programs\SE361\Microsoft\Visual Studio\CoffeeVendingMachine\CoffeeVendingMachine\obj\x86\Debug\CoffeeVendingMachine.pdb
+\\thomas\smbateng\Programs\SE361\Microsoft\Visual Studio\CoffeeVendingMachine\CoffeeVendingMachine\obj\x86\Debug\CoffeeVendingMachine.exe
+\\thomas\smbateng\Programs\SE361\Microsoft\Visual Studio\CoffeeVendingMachine\CoffeeVendingMachine\obj\x86\Debug\CoffeeVendingMachine.xml
+\\thomas\smbateng\Programs\SE361\Microsoft\Visual Studio\CoffeeVendingMachine\CoffeeVendingMachine\obj\x86\Debug\CoffeeVendingMachine.pdb
+\\thomas\smbateng\Programs\SE361\Microsoft\Visual Studio\CoffeeVendingMachine\CoffeeVendingMachine\bin\Debug\CoffeeVendingMachine.exe
+\\thomas\smbateng\Programs\SE361\Microsoft\Visual Studio\CoffeeVendingMachine\CoffeeVendingMachine\bin\Debug\CoffeeVendingMachine.pdb
+\\thomas\smbateng\Programs\SE361\Microsoft\Visual Studio\CoffeeVendingMachine\CoffeeVendingMachine\bin\Debug\CoffeeVendingMachine.xml
+\\thomas\smbateng\Programs\SE361\Microsoft\Visual Studio\CoffeeVendingMachine\CoffeeVendingMachine\obj\x86\Debug\ResolveAssemblyReference.cache
+\\thomas\smbateng\Programs\SE361\Microsoft\Visual Studio\CoffeeVendingMachine\CoffeeVendingMachine\obj\x86\Debug\CoffeeVendingMachine.MainForm.resources
+\\thomas\smbateng\Programs\SE361\Microsoft\Visual Studio\CoffeeVendingMachine\CoffeeVendingMachine\obj\x86\Debug\CoffeeVendingMachine.Resources.resources
+\\thomas\smbateng\Programs\SE361\Microsoft\Visual Studio\CoffeeVendingMachine\CoffeeVendingMachine\obj\x86\Debug\GenerateResource.read.1.tlog
+\\thomas\smbateng\Programs\SE361\Microsoft\Visual Studio\CoffeeVendingMachine\CoffeeVendingMachine\obj\x86\Debug\GenerateResource.write.1.tlog
+T:\Programs\SE361\Microsoft\Visual Studio\CoffeeVendingMachine\CoffeeVendingMachine\obj\x86\Debug\CoffeeVendingMachine.Login.resources
+\\thomas\smbateng\Programs\SE361 (Object Oriented Design - VB)\Microsoft\Visual Studio\CoffeeVendingMachine\CoffeeVendingMachine\obj\x86\Debug\CoffeeVendingMachine.exe
+\\thomas\smbateng\Programs\SE361 (Object Oriented Design - VB)\Microsoft\Visual Studio\CoffeeVendingMachine\CoffeeVendingMachine\obj\x86\Debug\CoffeeVendingMachine.xml
+\\thomas\smbateng\Programs\SE361 (Object Oriented Design - VB)\Microsoft\Visual Studio\CoffeeVendingMachine\CoffeeVendingMachine\obj\x86\Debug\CoffeeVendingMachine.pdb
+\\thomas\smbateng\Programs\SE361 (Object Oriented Design - VB)\Microsoft\Visual Studio\CoffeeVendingMachine\CoffeeVendingMachine\bin\Debug\CoffeeVendingMachine.exe
+\\thomas\smbateng\Programs\SE361 (Object Oriented Design - VB)\Microsoft\Visual Studio\CoffeeVendingMachine\CoffeeVendingMachine\bin\Debug\CoffeeVendingMachine.pdb
+\\thomas\smbateng\Programs\SE361 (Object Oriented Design - VB)\Microsoft\Visual Studio\CoffeeVendingMachine\CoffeeVendingMachine\bin\Debug\CoffeeVendingMachine.xml
+\\thomas\smbateng\Programs\SE361 (Object Oriented Design - VB)\Microsoft\Visual Studio\CoffeeVendingMachine\CoffeeVendingMachine\obj\x86\Debug\ResolveAssemblyReference.cache
+\\thomas\smbateng\Programs\SE361 (Object Oriented Design - VB)\Microsoft\Visual Studio\CoffeeVendingMachine\CoffeeVendingMachine\obj\x86\Debug\CoffeeVendingMachine.MainForm.resources
+\\thomas\smbateng\Programs\SE361 (Object Oriented Design - VB)\Microsoft\Visual Studio\CoffeeVendingMachine\CoffeeVendingMachine\obj\x86\Debug\CoffeeVendingMachine.Login.resources
+\\thomas\smbateng\Programs\SE361 (Object Oriented Design - VB)\Microsoft\Visual Studio\CoffeeVendingMachine\CoffeeVendingMachine\obj\x86\Debug\CoffeeVendingMachine.Resources.resources
+\\thomas\smbateng\Programs\SE361 (Object Oriented Design - VB)\Microsoft\Visual Studio\CoffeeVendingMachine\CoffeeVendingMachine\obj\x86\Debug\GenerateResource.read.1.tlog
+\\thomas\smbateng\Programs\SE361 (Object Oriented Design - VB)\Microsoft\Visual Studio\CoffeeVendingMachine\CoffeeVendingMachine\obj\x86\Debug\GenerateResource.write.1.tlog
+\\thomas\smbateng\Files\SE361 (Object Oriented Design)\Microsoft\Visual Studio\CoffeeVendingMachine\CoffeeVendingMachine\obj\x86\Debug\CoffeeVendingMachine.exe
+\\thomas\smbateng\Files\SE361 (Object Oriented Design)\Microsoft\Visual Studio\CoffeeVendingMachine\CoffeeVendingMachine\obj\x86\Debug\CoffeeVendingMachine.xml
+\\thomas\smbateng\Files\SE361 (Object Oriented Design)\Microsoft\Visual Studio\CoffeeVendingMachine\CoffeeVendingMachine\obj\x86\Debug\CoffeeVendingMachine.pdb

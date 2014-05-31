@@ -1,0 +1,17 @@
+\\thomas\smbateng\Programs\SE361\Visual Studio\ReadWriteToFile\ReadWriteToFile\bin\Release\ReadWriteToFile.exe
+\\thomas\smbateng\Programs\SE361\Visual Studio\ReadWriteToFile\ReadWriteToFile\bin\Release\ReadWriteToFile.pdb
+\\thomas\smbateng\Programs\SE361\Visual Studio\ReadWriteToFile\ReadWriteToFile\bin\Release\ReadWriteToFile.xml
+\\thomas\smbateng\Programs\SE361\Visual Studio\ReadWriteToFile\ReadWriteToFile\obj\x86\Release\ResolveAssemblyReference.cache
+\\thomas\smbateng\Programs\SE361\Visual Studio\ReadWriteToFile\ReadWriteToFile\obj\x86\Release\ReadWriteToFile.frmMain.resources
+\\thomas\smbateng\Programs\SE361\Visual Studio\ReadWriteToFile\ReadWriteToFile\obj\x86\Release\ReadWriteToFile.Resources.resources
+\\thomas\smbateng\Programs\SE361\Visual Studio\ReadWriteToFile\ReadWriteToFile\obj\x86\Release\GenerateResource.read.1.tlog
+\\thomas\smbateng\Programs\SE361\Visual Studio\ReadWriteToFile\ReadWriteToFile\obj\x86\Release\GenerateResource.write.1.tlog
+\\thomas\smbateng\Programs\SE361\Visual Studio\ReadWriteToFile\ReadWriteToFile\obj\x86\Release\ReadWriteToFile.exe
+\\thomas\smbateng\Programs\SE361\Visual Studio\ReadWriteToFile\ReadWriteToFile\obj\x86\Release\ReadWriteToFile.xml
+\\thomas\smbateng\Programs\SE361\Visual Studio\ReadWriteToFile\ReadWriteToFile\obj\x86\Release\ReadWriteToFile.pdb
+T:\Programs\SE361\Visual Studio\ReadWriteToFile\ReadWriteToFile\obj\x86\Release\ReadWriteToFile.exe
+T:\Programs\SE361\Visual Studio\ReadWriteToFile\ReadWriteToFile\obj\x86\Release\ReadWriteToFile.xml
+T:\Programs\SE361\Visual Studio\ReadWriteToFile\ReadWriteToFile\obj\x86\Release\ReadWriteToFile.pdb
+\\thomas\smbateng\Programs\SE361\Microsoft\Visual Studio\ReadWriteToFile\ReadWriteToFile\obj\x86\Release\ReadWriteToFile.exe
+\\thomas\smbateng\Programs\SE361\Microsoft\Visual Studio\ReadWriteToFile\ReadWriteToFile\obj\x86\Release\ReadWriteToFile.xml
+\\thomas\smbateng\Programs\SE361\Microsoft\Visual Studio\ReadWriteToFile\ReadWriteToFile\obj\x86\Release\ReadWriteToFile.pdb

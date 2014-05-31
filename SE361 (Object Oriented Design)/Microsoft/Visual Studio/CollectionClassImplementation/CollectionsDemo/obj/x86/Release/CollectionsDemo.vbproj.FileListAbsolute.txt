@@ -1,0 +1,14 @@
+\\thomas\smbateng\Programs\SE361\Visual Studio\CollectionClassImplementation\CollectionsDemo\bin\Release\CollectionsDemo.exe
+\\thomas\smbateng\Programs\SE361\Visual Studio\CollectionClassImplementation\CollectionsDemo\bin\Release\CollectionsDemo.pdb
+\\thomas\smbateng\Programs\SE361\Visual Studio\CollectionClassImplementation\CollectionsDemo\bin\Release\CollectionsDemo.xml
+\\thomas\smbateng\Programs\SE361\Visual Studio\CollectionClassImplementation\CollectionsDemo\obj\x86\Release\ResolveAssemblyReference.cache
+\\thomas\smbateng\Programs\SE361\Visual Studio\CollectionClassImplementation\CollectionsDemo\obj\x86\Release\CollectionsDemo.frmMain.resources
+\\thomas\smbateng\Programs\SE361\Visual Studio\CollectionClassImplementation\CollectionsDemo\obj\x86\Release\CollectionsDemo.Resources.resources
+\\thomas\smbateng\Programs\SE361\Visual Studio\CollectionClassImplementation\CollectionsDemo\obj\x86\Release\GenerateResource.read.1.tlog
+\\thomas\smbateng\Programs\SE361\Visual Studio\CollectionClassImplementation\CollectionsDemo\obj\x86\Release\GenerateResource.write.1.tlog
+\\thomas\smbateng\Programs\SE361\Visual Studio\CollectionClassImplementation\CollectionsDemo\obj\x86\Release\CollectionsDemo.exe
+\\thomas\smbateng\Programs\SE361\Visual Studio\CollectionClassImplementation\CollectionsDemo\obj\x86\Release\CollectionsDemo.xml
+\\thomas\smbateng\Programs\SE361\Visual Studio\CollectionClassImplementation\CollectionsDemo\obj\x86\Release\CollectionsDemo.pdb
+\\thomas\smbateng\Programs\SE361 (Object Oriented Design - VB)\Microsoft\Visual Studio\CollectionClassImplementation\CollectionsDemo\obj\x86\Release\CollectionsDemo.exe
+\\thomas\smbateng\Programs\SE361 (Object Oriented Design - VB)\Microsoft\Visual Studio\CollectionClassImplementation\CollectionsDemo\obj\x86\Release\CollectionsDemo.xml
+\\thomas\smbateng\Programs\SE361 (Object Oriented Design - VB)\Microsoft\Visual Studio\CollectionClassImplementation\CollectionsDemo\obj\x86\Release\CollectionsDemo.pdb

@@ -1,0 +1,39 @@
+C:\Users\linos\AppData\Local\Temporary Projects\ReadWriteToFile\bin\Debug\ReadWriteToFile.exe
+C:\Users\linos\AppData\Local\Temporary Projects\ReadWriteToFile\bin\Debug\ReadWriteToFile.pdb
+C:\Users\linos\AppData\Local\Temporary Projects\ReadWriteToFile\bin\Debug\ReadWriteToFile.xml
+C:\Users\linos\AppData\Local\Temporary Projects\ReadWriteToFile\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\linos\AppData\Local\Temporary Projects\ReadWriteToFile\obj\x86\Debug\ReadWriteToFile.frmMain.resources
+C:\Users\linos\AppData\Local\Temporary Projects\ReadWriteToFile\obj\x86\Debug\ReadWriteToFile.Resources.resources
+C:\Users\linos\AppData\Local\Temporary Projects\ReadWriteToFile\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\linos\AppData\Local\Temporary Projects\ReadWriteToFile\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\linos\AppData\Local\Temporary Projects\ReadWriteToFile\obj\x86\Debug\ReadWriteToFile.exe
+C:\Users\linos\AppData\Local\Temporary Projects\ReadWriteToFile\obj\x86\Debug\ReadWriteToFile.xml
+C:\Users\linos\AppData\Local\Temporary Projects\ReadWriteToFile\obj\x86\Debug\ReadWriteToFile.pdb
+H:\TEACHING\SPRING 2011\SE361\LAB Activities\My VB Projects\ReadWriteToFile\ReadWriteToFile\obj\x86\Debug\ReadWriteToFile.exe
+H:\TEACHING\SPRING 2011\SE361\LAB Activities\My VB Projects\ReadWriteToFile\ReadWriteToFile\obj\x86\Debug\ReadWriteToFile.xml
+H:\TEACHING\SPRING 2011\SE361\LAB Activities\My VB Projects\ReadWriteToFile\ReadWriteToFile\obj\x86\Debug\ReadWriteToFile.pdb
+H:\TEACHING\SPRING 2011\SE361\LAB Activities\My VB Projects\ReadWriteToFile\ReadWriteToFile\bin\Debug\ReadWriteToFile.exe
+H:\TEACHING\SPRING 2011\SE361\LAB Activities\My VB Projects\ReadWriteToFile\ReadWriteToFile\bin\Debug\ReadWriteToFile.pdb
+H:\TEACHING\SPRING 2011\SE361\LAB Activities\My VB Projects\ReadWriteToFile\ReadWriteToFile\bin\Debug\ReadWriteToFile.xml
+H:\TEACHING\SPRING 2011\SE361\LAB Activities\My VB Projects\ReadWriteToFile\ReadWriteToFile\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\TEACHING\SPRING 2011\SE361\LAB Activities\My VB Projects\ReadWriteToFile\ReadWriteToFile\obj\x86\Debug\ReadWriteToFile.frmMain.resources
+H:\TEACHING\SPRING 2011\SE361\LAB Activities\My VB Projects\ReadWriteToFile\ReadWriteToFile\obj\x86\Debug\ReadWriteToFile.Resources.resources
+H:\TEACHING\SPRING 2011\SE361\LAB Activities\My VB Projects\ReadWriteToFile\ReadWriteToFile\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\TEACHING\SPRING 2011\SE361\LAB Activities\My VB Projects\ReadWriteToFile\ReadWriteToFile\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\TEACHING\SPRING 2012\SE361\LAB Activities\My VB Projects\ReadWriteToFile\ReadWriteToFile\obj\x86\Debug\ReadWriteToFile.exe
+H:\TEACHING\SPRING 2012\SE361\LAB Activities\My VB Projects\ReadWriteToFile\ReadWriteToFile\obj\x86\Debug\ReadWriteToFile.xml
+H:\TEACHING\SPRING 2012\SE361\LAB Activities\My VB Projects\ReadWriteToFile\ReadWriteToFile\obj\x86\Debug\ReadWriteToFile.pdb
+H:\TEACHING\SPRING 2012\SE361\LAB Activities\Lab 08 File Streams\ReadWriteToFile\ReadWriteToFile\obj\x86\Debug\ReadWriteToFile.exe
+H:\TEACHING\SPRING 2012\SE361\LAB Activities\Lab 08 File Streams\ReadWriteToFile\ReadWriteToFile\obj\x86\Debug\ReadWriteToFile.xml
+H:\TEACHING\SPRING 2012\SE361\LAB Activities\Lab 08 File Streams\ReadWriteToFile\ReadWriteToFile\obj\x86\Debug\ReadWriteToFile.pdb
+H:\TEACHING\SPRING 2012\SE361\LAB Activities\Lab 08 File Streams\ReadWriteToFile\ReadWriteToFile\bin\Debug\ReadWriteToFile.exe
+H:\TEACHING\SPRING 2012\SE361\LAB Activities\Lab 08 File Streams\ReadWriteToFile\ReadWriteToFile\bin\Debug\ReadWriteToFile.pdb
+H:\TEACHING\SPRING 2012\SE361\LAB Activities\Lab 08 File Streams\ReadWriteToFile\ReadWriteToFile\bin\Debug\ReadWriteToFile.xml
+H:\TEACHING\SPRING 2012\SE361\LAB Activities\Lab 08 File Streams\ReadWriteToFile\ReadWriteToFile\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\TEACHING\SPRING 2012\SE361\LAB Activities\Lab 08 File Streams\ReadWriteToFile\ReadWriteToFile\obj\x86\Debug\ReadWriteToFile.frmMain.resources
+H:\TEACHING\SPRING 2012\SE361\LAB Activities\Lab 08 File Streams\ReadWriteToFile\ReadWriteToFile\obj\x86\Debug\ReadWriteToFile.Resources.resources
+H:\TEACHING\SPRING 2012\SE361\LAB Activities\Lab 08 File Streams\ReadWriteToFile\ReadWriteToFile\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\TEACHING\SPRING 2012\SE361\LAB Activities\Lab 08 File Streams\ReadWriteToFile\ReadWriteToFile\obj\x86\Debug\GenerateResource.write.1.tlog
+\\thomas\smbateng\Programs\SE361\Visual Studio\ReadWriteToFile\ReadWriteToFile\obj\x86\Debug\ReadWriteToFile.exe
+\\thomas\smbateng\Programs\SE361\Visual Studio\ReadWriteToFile\ReadWriteToFile\obj\x86\Debug\ReadWriteToFile.xml
+\\thomas\smbateng\Programs\SE361\Visual Studio\ReadWriteToFile\ReadWriteToFile\obj\x86\Debug\ReadWriteToFile.pdb

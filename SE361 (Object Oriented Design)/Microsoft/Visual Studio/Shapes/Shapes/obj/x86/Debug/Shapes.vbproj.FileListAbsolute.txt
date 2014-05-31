@@ -1,0 +1,31 @@
+H:\TEACHING\FALL 2011\BU\SE 267\In Class Activities\Shapes\Shapes\bin\Debug\Shapes.exe
+H:\TEACHING\FALL 2011\BU\SE 267\In Class Activities\Shapes\Shapes\bin\Debug\Shapes.pdb
+H:\TEACHING\FALL 2011\BU\SE 267\In Class Activities\Shapes\Shapes\bin\Debug\Shapes.xml
+H:\TEACHING\FALL 2011\BU\SE 267\In Class Activities\Shapes\Shapes\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\TEACHING\FALL 2011\BU\SE 267\In Class Activities\Shapes\Shapes\obj\x86\Debug\Shapes.MainForm.resources
+H:\TEACHING\FALL 2011\BU\SE 267\In Class Activities\Shapes\Shapes\obj\x86\Debug\Shapes.Resources.resources
+H:\TEACHING\FALL 2011\BU\SE 267\In Class Activities\Shapes\Shapes\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\TEACHING\FALL 2011\BU\SE 267\In Class Activities\Shapes\Shapes\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\TEACHING\FALL 2011\BU\SE 267\In Class Activities\Shapes\Shapes\obj\x86\Debug\Shapes.exe
+H:\TEACHING\FALL 2011\BU\SE 267\In Class Activities\Shapes\Shapes\obj\x86\Debug\Shapes.xml
+H:\TEACHING\FALL 2011\BU\SE 267\In Class Activities\Shapes\Shapes\obj\x86\Debug\Shapes.pdb
+H:\TEACHING\SPRING 2012\SE267\In Class Activities\Shapes\Shapes\obj\x86\Debug\Shapes.exe
+H:\TEACHING\SPRING 2012\SE267\In Class Activities\Shapes\Shapes\obj\x86\Debug\Shapes.xml
+H:\TEACHING\SPRING 2012\SE267\In Class Activities\Shapes\Shapes\obj\x86\Debug\Shapes.pdb
+H:\TEACHING\SPRING 2012\SE267\In Class Activities\Shapes\Shapes\bin\Debug\Shapes.exe
+H:\TEACHING\SPRING 2012\SE267\In Class Activities\Shapes\Shapes\bin\Debug\Shapes.pdb
+H:\TEACHING\SPRING 2012\SE267\In Class Activities\Shapes\Shapes\bin\Debug\Shapes.xml
+H:\TEACHING\SPRING 2012\SE267\In Class Activities\Shapes\Shapes\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\TEACHING\SPRING 2012\SE267\In Class Activities\Shapes\Shapes\obj\x86\Debug\Shapes.MainForm.resources
+H:\TEACHING\SPRING 2012\SE267\In Class Activities\Shapes\Shapes\obj\x86\Debug\Shapes.Resources.resources
+H:\TEACHING\SPRING 2012\SE267\In Class Activities\Shapes\Shapes\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\TEACHING\SPRING 2012\SE267\In Class Activities\Shapes\Shapes\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\TEACHING\SPRING 2012\SE361\LAB Activities\LAB 01 Introduction to Window Applications\InClass\Shapes\Shapes\obj\x86\Debug\Shapes.exe
+H:\TEACHING\SPRING 2012\SE361\LAB Activities\LAB 01 Introduction to Window Applications\InClass\Shapes\Shapes\obj\x86\Debug\Shapes.xml
+H:\TEACHING\SPRING 2012\SE361\LAB Activities\LAB 01 Introduction to Window Applications\InClass\Shapes\Shapes\obj\x86\Debug\Shapes.pdb
+T:\Programs\SE361\Visual Studio\Shapes\Shapes\obj\x86\Debug\Shapes.exe
+T:\Programs\SE361\Visual Studio\Shapes\Shapes\obj\x86\Debug\Shapes.xml
+T:\Programs\SE361\Visual Studio\Shapes\Shapes\obj\x86\Debug\Shapes.pdb
+\\thomas\smbateng\Programs\SE361 (Object Oriented Design - VB)\Microsoft\Visual Studio\Shapes\Shapes\obj\x86\Debug\Shapes.exe
+\\thomas\smbateng\Programs\SE361 (Object Oriented Design - VB)\Microsoft\Visual Studio\Shapes\Shapes\obj\x86\Debug\Shapes.xml
+\\thomas\smbateng\Programs\SE361 (Object Oriented Design - VB)\Microsoft\Visual Studio\Shapes\Shapes\obj\x86\Debug\Shapes.pdb

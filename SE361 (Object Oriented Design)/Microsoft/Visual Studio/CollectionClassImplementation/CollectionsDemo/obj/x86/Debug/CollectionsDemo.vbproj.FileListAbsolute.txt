@@ -1,0 +1,56 @@
+C:\Users\linos\AppData\Local\Temporary Projects\CollectionsDemo\bin\Debug\CollectionsDemo.exe
+C:\Users\linos\AppData\Local\Temporary Projects\CollectionsDemo\bin\Debug\CollectionsDemo.pdb
+C:\Users\linos\AppData\Local\Temporary Projects\CollectionsDemo\bin\Debug\CollectionsDemo.xml
+C:\Users\linos\AppData\Local\Temporary Projects\CollectionsDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\linos\AppData\Local\Temporary Projects\CollectionsDemo\obj\x86\Debug\CollectionsDemo.frmMain.resources
+C:\Users\linos\AppData\Local\Temporary Projects\CollectionsDemo\obj\x86\Debug\CollectionsDemo.Resources.resources
+C:\Users\linos\AppData\Local\Temporary Projects\CollectionsDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\linos\AppData\Local\Temporary Projects\CollectionsDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\linos\AppData\Local\Temporary Projects\CollectionsDemo\obj\x86\Debug\CollectionsDemo.exe
+C:\Users\linos\AppData\Local\Temporary Projects\CollectionsDemo\obj\x86\Debug\CollectionsDemo.xml
+C:\Users\linos\AppData\Local\Temporary Projects\CollectionsDemo\obj\x86\Debug\CollectionsDemo.pdb
+H:\TEACHING\SPRING 2011\SE361\LAB Activities\My VB Projects\CollectionsDemo\CollectionsDemo\obj\x86\Debug\CollectionsDemo.exe
+H:\TEACHING\SPRING 2011\SE361\LAB Activities\My VB Projects\CollectionsDemo\CollectionsDemo\obj\x86\Debug\CollectionsDemo.xml
+H:\TEACHING\SPRING 2011\SE361\LAB Activities\My VB Projects\CollectionsDemo\CollectionsDemo\obj\x86\Debug\CollectionsDemo.pdb
+H:\TEACHING\SPRING 2011\SE361\LAB Activities\My VB Projects\CollectionsDemo\CollectionsDemo\bin\Debug\CollectionsDemo.exe
+H:\TEACHING\SPRING 2011\SE361\LAB Activities\My VB Projects\CollectionsDemo\CollectionsDemo\bin\Debug\CollectionsDemo.pdb
+H:\TEACHING\SPRING 2011\SE361\LAB Activities\My VB Projects\CollectionsDemo\CollectionsDemo\bin\Debug\CollectionsDemo.xml
+H:\TEACHING\SPRING 2011\SE361\LAB Activities\My VB Projects\CollectionsDemo\CollectionsDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\TEACHING\SPRING 2011\SE361\LAB Activities\My VB Projects\CollectionsDemo\CollectionsDemo\obj\x86\Debug\CollectionsDemo.frmMain.resources
+H:\TEACHING\SPRING 2011\SE361\LAB Activities\My VB Projects\CollectionsDemo\CollectionsDemo\obj\x86\Debug\CollectionsDemo.Resources.resources
+H:\TEACHING\SPRING 2011\SE361\LAB Activities\My VB Projects\CollectionsDemo\CollectionsDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\TEACHING\SPRING 2011\SE361\LAB Activities\My VB Projects\CollectionsDemo\CollectionsDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+\\bufiles\user\linos\TEACHING\SPRING 2011\SE361\LAB Activities\My VB Projects\CollectionsDemo\CollectionsDemo\obj\x86\Debug\CollectionsDemo.exe
+\\bufiles\user\linos\TEACHING\SPRING 2011\SE361\LAB Activities\My VB Projects\CollectionsDemo\CollectionsDemo\obj\x86\Debug\CollectionsDemo.xml
+\\bufiles\user\linos\TEACHING\SPRING 2011\SE361\LAB Activities\My VB Projects\CollectionsDemo\CollectionsDemo\obj\x86\Debug\CollectionsDemo.pdb
+C:\Users\linos\Desktop\CollectionsDemo\CollectionsDemo\obj\x86\Debug\CollectionsDemo.exe
+C:\Users\linos\Desktop\CollectionsDemo\CollectionsDemo\obj\x86\Debug\CollectionsDemo.xml
+C:\Users\linos\Desktop\CollectionsDemo\CollectionsDemo\obj\x86\Debug\CollectionsDemo.pdb
+C:\Users\linos\Desktop\CollectionClassImplementation\CollectionsDemo\obj\x86\Debug\CollectionsDemo.exe
+C:\Users\linos\Desktop\CollectionClassImplementation\CollectionsDemo\obj\x86\Debug\CollectionsDemo.xml
+C:\Users\linos\Desktop\CollectionClassImplementation\CollectionsDemo\obj\x86\Debug\CollectionsDemo.pdb
+C:\Users\linos\Desktop\CollectionClassImplementation\CollectionsDemo\bin\Debug\CollectionsDemo.exe
+C:\Users\linos\Desktop\CollectionClassImplementation\CollectionsDemo\bin\Debug\CollectionsDemo.pdb
+C:\Users\linos\Desktop\CollectionClassImplementation\CollectionsDemo\bin\Debug\CollectionsDemo.xml
+C:\Users\linos\Desktop\CollectionClassImplementation\CollectionsDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\linos\Desktop\CollectionClassImplementation\CollectionsDemo\obj\x86\Debug\CollectionsDemo.frmMain.resources
+C:\Users\linos\Desktop\CollectionClassImplementation\CollectionsDemo\obj\x86\Debug\CollectionsDemo.Resources.resources
+C:\Users\linos\Desktop\CollectionClassImplementation\CollectionsDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\linos\Desktop\CollectionClassImplementation\CollectionsDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\TEACHING\SPRING 2011\SE361\LAB Activities\LAB 09 Arrays and Collections\CollectionClassImplementation\CollectionsDemo\obj\x86\Debug\CollectionsDemo.exe
+H:\TEACHING\SPRING 2011\SE361\LAB Activities\LAB 09 Arrays and Collections\CollectionClassImplementation\CollectionsDemo\obj\x86\Debug\CollectionsDemo.xml
+H:\TEACHING\SPRING 2011\SE361\LAB Activities\LAB 09 Arrays and Collections\CollectionClassImplementation\CollectionsDemo\obj\x86\Debug\CollectionsDemo.pdb
+H:\TEACHING\SPRING 2012\SE361\LAB Activities\LAB 09 Implement Assosciations as Collections\CollectionClassImplementation\CollectionsDemo\obj\x86\Debug\CollectionsDemo.exe
+H:\TEACHING\SPRING 2012\SE361\LAB Activities\LAB 09 Implement Assosciations as Collections\CollectionClassImplementation\CollectionsDemo\obj\x86\Debug\CollectionsDemo.xml
+H:\TEACHING\SPRING 2012\SE361\LAB Activities\LAB 09 Implement Assosciations as Collections\CollectionClassImplementation\CollectionsDemo\obj\x86\Debug\CollectionsDemo.pdb
+H:\TEACHING\SPRING 2012\SE361\LAB Activities\LAB 09 Implement Assosciations as Collections\CollectionClassImplementation\CollectionsDemo\bin\Debug\CollectionsDemo.exe
+H:\TEACHING\SPRING 2012\SE361\LAB Activities\LAB 09 Implement Assosciations as Collections\CollectionClassImplementation\CollectionsDemo\bin\Debug\CollectionsDemo.pdb
+H:\TEACHING\SPRING 2012\SE361\LAB Activities\LAB 09 Implement Assosciations as Collections\CollectionClassImplementation\CollectionsDemo\bin\Debug\CollectionsDemo.xml
+H:\TEACHING\SPRING 2012\SE361\LAB Activities\LAB 09 Implement Assosciations as Collections\CollectionClassImplementation\CollectionsDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\TEACHING\SPRING 2012\SE361\LAB Activities\LAB 09 Implement Assosciations as Collections\CollectionClassImplementation\CollectionsDemo\obj\x86\Debug\CollectionsDemo.frmMain.resources
+H:\TEACHING\SPRING 2012\SE361\LAB Activities\LAB 09 Implement Assosciations as Collections\CollectionClassImplementation\CollectionsDemo\obj\x86\Debug\CollectionsDemo.Resources.resources
+H:\TEACHING\SPRING 2012\SE361\LAB Activities\LAB 09 Implement Assosciations as Collections\CollectionClassImplementation\CollectionsDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\TEACHING\SPRING 2012\SE361\LAB Activities\LAB 09 Implement Assosciations as Collections\CollectionClassImplementation\CollectionsDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+\\thomas\smbateng\Programs\SE361\Visual Studio\CollectionClassImplementation\CollectionsDemo\obj\x86\Debug\CollectionsDemo.exe
+\\thomas\smbateng\Programs\SE361\Visual Studio\CollectionClassImplementation\CollectionsDemo\obj\x86\Debug\CollectionsDemo.xml
+\\thomas\smbateng\Programs\SE361\Visual Studio\CollectionClassImplementation\CollectionsDemo\obj\x86\Debug\CollectionsDemo.pdb

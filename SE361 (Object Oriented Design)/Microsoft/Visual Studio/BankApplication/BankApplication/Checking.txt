@@ -1,0 +1,10 @@
+3/22/2012		Deposit		$40.00		Prev. Bal.		$0.00		New Bal.		$40.00
+3/22/2012		Withdrawal		$20.00		Prev. Bal.		$40.00		New Bal.		$20.00
+3/22/2012		Check to	Shaun		$5.00		Prev. Bal.		$20.00		New Bal.		$15.00
+3/22/2012		Transfer to Savings		$10.00		Prev. Bal.		$15.00		New Bal.		$5.00
+3/22/2012		Transfer to Savings		$5.00		Prev. Bal.		$5.00		New Bal.		$0.00
+3/22/2012		Transfer from Savings		$5.00		Prev. Bal.		$0.00		New Bal.		$5.00
+3/27/2012		Deposit		$500.00		Prev. Bal.		$0.00		New Bal.		$500.00
+3/27/2012		Withdrawal		$250.00		Prev. Bal.		$500.00		New Bal.		$250.00
+3/27/2012		Check to	Dino		$35.00		Prev. Bal.		$250.00		New Bal.		$215.00
+3/27/2012		Transfer to Savings		$200.00		Prev. Bal.		$215.00		New Bal.		$15.00

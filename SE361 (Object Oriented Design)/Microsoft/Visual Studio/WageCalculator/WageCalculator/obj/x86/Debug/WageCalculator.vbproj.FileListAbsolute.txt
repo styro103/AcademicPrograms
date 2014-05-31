@@ -1,0 +1,11 @@
+\\thomas\smbateng\Programs\SE361\WageCalculator\WageCalculator\bin\Debug\WageCalculator.exe
+\\thomas\smbateng\Programs\SE361\WageCalculator\WageCalculator\bin\Debug\WageCalculator.pdb
+\\thomas\smbateng\Programs\SE361\WageCalculator\WageCalculator\bin\Debug\WageCalculator.xml
+\\thomas\smbateng\Programs\SE361\WageCalculator\WageCalculator\obj\x86\Debug\ResolveAssemblyReference.cache
+\\thomas\smbateng\Programs\SE361\WageCalculator\WageCalculator\obj\x86\Debug\WageCalculator.WageCalculator.resources
+\\thomas\smbateng\Programs\SE361\WageCalculator\WageCalculator\obj\x86\Debug\WageCalculator.Resources.resources
+\\thomas\smbateng\Programs\SE361\WageCalculator\WageCalculator\obj\x86\Debug\GenerateResource.read.1.tlog
+\\thomas\smbateng\Programs\SE361\WageCalculator\WageCalculator\obj\x86\Debug\GenerateResource.write.1.tlog
+\\thomas\smbateng\Programs\SE361\WageCalculator\WageCalculator\obj\x86\Debug\WageCalculator.exe
+\\thomas\smbateng\Programs\SE361\WageCalculator\WageCalculator\obj\x86\Debug\WageCalculator.xml
+\\thomas\smbateng\Programs\SE361\WageCalculator\WageCalculator\obj\x86\Debug\WageCalculator.pdb

@@ -1,0 +1,11 @@
+\\thomas\smbateng\Programs\SE361\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+\\thomas\smbateng\Programs\SE361\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+\\thomas\smbateng\Programs\SE361\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+\\thomas\smbateng\Programs\SE361\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+\\thomas\smbateng\Programs\SE361\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+\\thomas\smbateng\Programs\SE361\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+\\thomas\smbateng\Programs\SE361\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+\\thomas\smbateng\Programs\SE361\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+\\thomas\smbateng\Programs\SE361\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+\\thomas\smbateng\Programs\SE361\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+\\thomas\smbateng\Programs\SE361\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb

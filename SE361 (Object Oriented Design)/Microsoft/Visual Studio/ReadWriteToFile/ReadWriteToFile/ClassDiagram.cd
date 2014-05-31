@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ReadWriteToFile.clsContact" Collapsed="true">
+    <Position X="0.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAApAAAAgAADAAAAAAEAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>clsContact.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ReadWriteToFile.clsContactsDirectory" Collapsed="true">
+    <Position X="4.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAgAAAEAAAAAAAAACAAAAA=</HashCode>
+      <FileName>clsContactsDirectory.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ReadWriteToFile.frmMain" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QACAAAEAECAAAAAAAACAABACACBAIIABAAABAAAESAA=</HashCode>
+      <FileName>frmMain.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

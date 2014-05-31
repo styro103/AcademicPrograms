@@ -1,0 +1,45 @@
+C:\Documents and Settings\linos\Local Settings\Application Data\Temporary Projects\DiceGame\bin\Debug\DiceGame.exe
+C:\Documents and Settings\linos\Local Settings\Application Data\Temporary Projects\DiceGame\bin\Debug\DiceGame.pdb
+C:\Documents and Settings\linos\Local Settings\Application Data\Temporary Projects\DiceGame\bin\Debug\DiceGame.xml
+C:\Documents and Settings\linos\Local Settings\Application Data\Temporary Projects\DiceGame\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\linos\Local Settings\Application Data\Temporary Projects\DiceGame\obj\Debug\DiceGame.frmDiceGame.resources
+C:\Documents and Settings\linos\Local Settings\Application Data\Temporary Projects\DiceGame\obj\Debug\DiceGame.Resources.resources
+C:\Documents and Settings\linos\Local Settings\Application Data\Temporary Projects\DiceGame\obj\Debug\DiceGame.vbproj.GenerateResource.Cache
+C:\Documents and Settings\linos\Local Settings\Application Data\Temporary Projects\DiceGame\obj\Debug\DiceGame.exe
+C:\Documents and Settings\linos\Local Settings\Application Data\Temporary Projects\DiceGame\obj\Debug\DiceGame.xml
+C:\Documents and Settings\linos\Local Settings\Application Data\Temporary Projects\DiceGame\obj\Debug\DiceGame.pdb
+E:\Teaching\SPRING 09\IUPUI\PDF\DiceGame\DiceGame\obj\Debug\DiceGame.exe
+E:\Teaching\SPRING 09\IUPUI\PDF\DiceGame\DiceGame\obj\Debug\DiceGame.xml
+E:\Teaching\SPRING 09\IUPUI\PDF\DiceGame\DiceGame\obj\Debug\DiceGame.pdb
+E:\Teaching\SPRING 09\IUPUI\LINOS\LABS\Lab 1\DiceGame\DiceGame\obj\Debug\DiceGame.exe
+E:\Teaching\SPRING 09\IUPUI\LINOS\LABS\Lab 1\DiceGame\DiceGame\obj\Debug\DiceGame.xml
+E:\Teaching\SPRING 09\IUPUI\LINOS\LABS\Lab 1\DiceGame\DiceGame\obj\Debug\DiceGame.pdb
+E:\Teaching\SPRING 09\IUPUI\LINOS\LABS\Lab 1\DiceGame\DiceGame\bin\Debug\DiceGame.exe
+E:\Teaching\SPRING 09\IUPUI\LINOS\LABS\Lab 1\DiceGame\DiceGame\bin\Debug\DiceGame.pdb
+E:\Teaching\SPRING 09\IUPUI\LINOS\LABS\Lab 1\DiceGame\DiceGame\bin\Debug\DiceGame.xml
+E:\Teaching\SPRING 09\IUPUI\LINOS\LABS\Lab 1\DiceGame\DiceGame\obj\Debug\ResolveAssemblyReference.cache
+E:\Teaching\SPRING 09\IUPUI\LINOS\LABS\Lab 1\DiceGame\DiceGame\obj\Debug\DiceGame.Resources.resources
+E:\Teaching\SPRING 09\IUPUI\LINOS\LABS\Lab 1\DiceGame\DiceGame\obj\Debug\DiceGame.vbproj.GenerateResource.Cache
+E:\Teaching\SPRING 09\IUPUI\LINOS\LABS\Lab 1\DiceGame\DiceGame\obj\Debug\DiceGame.frmPlayer.resources
+H:\TEACHING\SPRING 2012\SE361\LAB Activities\LAB 06 Mapping UML Diagrams to Code\Dice Game Application\DiceGame\DiceGame\obj\Debug\DiceGame.exe
+H:\TEACHING\SPRING 2012\SE361\LAB Activities\LAB 06 Mapping UML Diagrams to Code\Dice Game Application\DiceGame\DiceGame\obj\Debug\DiceGame.xml
+H:\TEACHING\SPRING 2012\SE361\LAB Activities\LAB 06 Mapping UML Diagrams to Code\Dice Game Application\DiceGame\DiceGame\obj\Debug\DiceGame.pdb
+H:\TEACHING\SPRING 2012\SE361\LAB Activities\LAB 06 Mapping UML Diagrams to Code\Dice Game Application\DiceGame\DiceGame\bin\Debug\DiceGame.exe
+H:\TEACHING\SPRING 2012\SE361\LAB Activities\LAB 06 Mapping UML Diagrams to Code\Dice Game Application\DiceGame\DiceGame\bin\Debug\DiceGame.pdb
+H:\TEACHING\SPRING 2012\SE361\LAB Activities\LAB 06 Mapping UML Diagrams to Code\Dice Game Application\DiceGame\DiceGame\bin\Debug\DiceGame.xml
+H:\TEACHING\SPRING 2012\SE361\LAB Activities\LAB 06 Mapping UML Diagrams to Code\Dice Game Application\DiceGame\DiceGame\obj\Debug\ResolveAssemblyReference.cache
+H:\TEACHING\SPRING 2012\SE361\LAB Activities\LAB 06 Mapping UML Diagrams to Code\Dice Game Application\DiceGame\DiceGame\obj\Debug\DiceGame.frmPlayer.resources
+H:\TEACHING\SPRING 2012\SE361\LAB Activities\LAB 06 Mapping UML Diagrams to Code\Dice Game Application\DiceGame\DiceGame\obj\Debug\DiceGame.Resources.resources
+H:\TEACHING\SPRING 2012\SE361\LAB Activities\LAB 06 Mapping UML Diagrams to Code\Dice Game Application\DiceGame\DiceGame\obj\Debug\GenerateResource-ResGen.read.1.tlog
+H:\TEACHING\SPRING 2012\SE361\LAB Activities\LAB 06 Mapping UML Diagrams to Code\Dice Game Application\DiceGame\DiceGame\obj\Debug\GenerateResource-ResGen.write.1.tlog
+\\thomas\smbateng\Programs\SE361\Visual Studio\DiceGame\DiceGame\obj\Debug\DiceGame.exe
+\\thomas\smbateng\Programs\SE361\Visual Studio\DiceGame\DiceGame\obj\Debug\DiceGame.xml
+\\thomas\smbateng\Programs\SE361\Visual Studio\DiceGame\DiceGame\obj\Debug\DiceGame.pdb
+\\thomas\smbateng\Programs\SE361\Visual Studio\DiceGame\DiceGame\bin\Debug\DiceGame.exe
+\\thomas\smbateng\Programs\SE361\Visual Studio\DiceGame\DiceGame\bin\Debug\DiceGame.pdb
+\\thomas\smbateng\Programs\SE361\Visual Studio\DiceGame\DiceGame\bin\Debug\DiceGame.xml
+\\thomas\smbateng\Programs\SE361\Visual Studio\DiceGame\DiceGame\obj\Debug\ResolveAssemblyReference.cache
+\\thomas\smbateng\Programs\SE361\Visual Studio\DiceGame\DiceGame\obj\Debug\DiceGame.frmPlayer.resources
+\\thomas\smbateng\Programs\SE361\Visual Studio\DiceGame\DiceGame\obj\Debug\DiceGame.Resources.resources
+\\thomas\smbateng\Programs\SE361\Visual Studio\DiceGame\DiceGame\obj\Debug\GenerateResource-ResGen.read.1.tlog
+\\thomas\smbateng\Programs\SE361\Visual Studio\DiceGame\DiceGame\obj\Debug\GenerateResource-ResGen.write.1.tlog

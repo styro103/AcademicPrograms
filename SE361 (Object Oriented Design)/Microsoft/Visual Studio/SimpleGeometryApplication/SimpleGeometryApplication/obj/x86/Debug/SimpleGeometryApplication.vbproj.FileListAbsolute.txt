@@ -1,0 +1,11 @@
+\\thomas\smbateng\Programs\SE361\SimpleGeometryApplication\SimpleGeometryApplication\bin\Debug\SimpleGeometryApplication.exe
+\\thomas\smbateng\Programs\SE361\SimpleGeometryApplication\SimpleGeometryApplication\bin\Debug\SimpleGeometryApplication.pdb
+\\thomas\smbateng\Programs\SE361\SimpleGeometryApplication\SimpleGeometryApplication\bin\Debug\SimpleGeometryApplication.xml
+\\thomas\smbateng\Programs\SE361\SimpleGeometryApplication\SimpleGeometryApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+\\thomas\smbateng\Programs\SE361\SimpleGeometryApplication\SimpleGeometryApplication\obj\x86\Debug\SimpleGeometryApplication.SimpleGeometryApplication.resources
+\\thomas\smbateng\Programs\SE361\SimpleGeometryApplication\SimpleGeometryApplication\obj\x86\Debug\SimpleGeometryApplication.Resources.resources
+\\thomas\smbateng\Programs\SE361\SimpleGeometryApplication\SimpleGeometryApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+\\thomas\smbateng\Programs\SE361\SimpleGeometryApplication\SimpleGeometryApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+\\thomas\smbateng\Programs\SE361\SimpleGeometryApplication\SimpleGeometryApplication\obj\x86\Debug\SimpleGeometryApplication.exe
+\\thomas\smbateng\Programs\SE361\SimpleGeometryApplication\SimpleGeometryApplication\obj\x86\Debug\SimpleGeometryApplication.xml
+\\thomas\smbateng\Programs\SE361\SimpleGeometryApplication\SimpleGeometryApplication\obj\x86\Debug\SimpleGeometryApplication.pdb
