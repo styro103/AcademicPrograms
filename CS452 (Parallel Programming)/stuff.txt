@@ -1,0 +1,21 @@
+if (i == ntemp->left)
+				{
+					if (ntemp->right < walker->left) //Make ntemp Middle Child
+					{
+						walker->parent->mchild = ntemp;
+						ntemp->parent = walker->parent;
+						ntemp->parent->mid = ntemp->right;
+					}
+					else //Make ntemp Right Child, Move Right Child to Middle
+					{
+						walker->parent->mchild = walker;
+						walker->parent->rchild = ntemp;
+						ntemp->parent = walker->parent;
+						ntemp->parent->mid = walker->right;
+						ntemp->parent->right = ntemp->right;
+					}
+				}
+				else
+				{
+
+				}

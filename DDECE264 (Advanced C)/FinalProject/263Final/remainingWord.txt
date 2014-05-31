@@ -1,0 +1,26 @@
+  0                                             INTEL
+  1                                                  
+  2                                            George
+  3            Jennifer                        Hannah
+  4                         Isaac   Donovan          
+  5                       Francis     APPLE          
+  6                                               Eve
+  7                                             APPLE
+  8                                             Isaac
+  9                                            cherry
+ 10             Francis    ORANGE                    
+ 11     INTEL               Isaac    cherry          
+ 12              Albert               Isaac          
+ 13               INTEL    cherry               Isaac
+ 14                                             APPLE
+ 15                                            Hannah
+ 16                                 Francis          
+ 17                                  BANANA          
+ 18                                          Cheyenne
+ 19                                            cherry
+ 20     APPLE                       Francis       Eve
+
+
+Total Score: 0
+Total Misses: 5
+Current Time: 2911384

@@ -1,0 +1,3 @@
+mpicxx -o 'inputfile' 'outputfile'.cpp -lmpi
+mpirun -np 'number' inputfile
+
