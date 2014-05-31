@@ -1,0 +1,33 @@
+***Welcome User!!!***
+Enter the name of the file to be scanned (including extension).
+
+CSI.txt
+
+Variable: a
+Assignment: =
+Integer: 3
+Semicolon: ;
+NEW LINE
+Operator: +
+Integer: 5
+Integer: 31
+Semicolon: ;
+NEW LINE
+Variable: b
+Assignment: =
+Operator: +
+Operator: *
+Variable: A
+Integer: 4
+Operator: -
+Integer: 5
+Integer: 4
+Semicolon: ;
+NEW LINE
+Variable: a
+Assignment: =
+Real Number: 3.056e35
+Semicolon: ;
+NEW LINE
+Quit Command
+Semicolon: ;

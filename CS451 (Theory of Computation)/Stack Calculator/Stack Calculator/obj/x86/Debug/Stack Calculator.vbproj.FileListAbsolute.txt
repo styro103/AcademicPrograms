@@ -1,0 +1,18 @@
+T:\Files\CS451 (Theory of Computation)\Stack Calculator\Stack Calculator\bin\Debug\Stack Calculator.exe
+T:\Files\CS451 (Theory of Computation)\Stack Calculator\Stack Calculator\bin\Debug\Stack Calculator.pdb
+T:\Files\CS451 (Theory of Computation)\Stack Calculator\Stack Calculator\bin\Debug\Stack Calculator.xml
+T:\Files\CS451 (Theory of Computation)\Stack Calculator\Stack Calculator\obj\x86\Debug\Stack_Calculator.MainForm.resources
+T:\Files\CS451 (Theory of Computation)\Stack Calculator\Stack Calculator\obj\x86\Debug\Stack_Calculator.Resources.resources
+T:\Files\CS451 (Theory of Computation)\Stack Calculator\Stack Calculator\obj\x86\Debug\Stack Calculator.vbproj.GenerateResource.Cache
+T:\Files\CS451 (Theory of Computation)\Stack Calculator\Stack Calculator\obj\x86\Debug\Stack Calculator.exe
+T:\Files\CS451 (Theory of Computation)\Stack Calculator\Stack Calculator\obj\x86\Debug\Stack Calculator.xml
+T:\Files\CS451 (Theory of Computation)\Stack Calculator\Stack Calculator\obj\x86\Debug\Stack Calculator.pdb
+\\thomas\smbateng\Files\CS451 (Theory of Computation)\Stack Calculator\Stack Calculator\obj\x86\Debug\Stack Calculator.exe
+\\thomas\smbateng\Files\CS451 (Theory of Computation)\Stack Calculator\Stack Calculator\obj\x86\Debug\Stack Calculator.xml
+\\thomas\smbateng\Files\CS451 (Theory of Computation)\Stack Calculator\Stack Calculator\obj\x86\Debug\Stack Calculator.pdb
+\\thomas\smbateng\Files\CS451 (Theory of Computation)\Stack Calculator\Stack Calculator\bin\Debug\Stack Calculator.exe
+\\thomas\smbateng\Files\CS451 (Theory of Computation)\Stack Calculator\Stack Calculator\bin\Debug\Stack Calculator.pdb
+\\thomas\smbateng\Files\CS451 (Theory of Computation)\Stack Calculator\Stack Calculator\bin\Debug\Stack Calculator.xml
+\\thomas\smbateng\Files\CS451 (Theory of Computation)\Stack Calculator\Stack Calculator\obj\x86\Debug\Stack_Calculator.MainForm.resources
+\\thomas\smbateng\Files\CS451 (Theory of Computation)\Stack Calculator\Stack Calculator\obj\x86\Debug\Stack_Calculator.Resources.resources
+\\thomas\smbateng\Files\CS451 (Theory of Computation)\Stack Calculator\Stack Calculator\obj\x86\Debug\Stack Calculator.vbproj.GenerateResource.Cache
