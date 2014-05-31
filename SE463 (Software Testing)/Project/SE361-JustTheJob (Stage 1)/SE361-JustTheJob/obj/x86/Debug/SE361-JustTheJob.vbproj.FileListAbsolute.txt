@@ -1,0 +1,130 @@
+H:\SE361\Visual Studio 2010\Projects\SE361-JustTheJob\SE361-JustTheJob\bin\Debug\SE361-JustTheJob.exe
+H:\SE361\Visual Studio 2010\Projects\SE361-JustTheJob\SE361-JustTheJob\bin\Debug\SE361-JustTheJob.pdb
+H:\SE361\Visual Studio 2010\Projects\SE361-JustTheJob\SE361-JustTheJob\bin\Debug\SE361-JustTheJob.xml
+H:\SE361\Visual Studio 2010\Projects\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\SE361\Visual Studio 2010\Projects\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.CustomerForm.resources
+H:\SE361\Visual Studio 2010\Projects\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.EmployeesForm.resources
+H:\SE361\Visual Studio 2010\Projects\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.NewCustomerForm.resources
+H:\SE361\Visual Studio 2010\Projects\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.InvoiceForm.resources
+H:\SE361\Visual Studio 2010\Projects\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.JobForm.resources
+H:\SE361\Visual Studio 2010\Projects\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.Mainform.resources
+H:\SE361\Visual Studio 2010\Projects\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.Resources.resources
+H:\SE361\Visual Studio 2010\Projects\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.PaymentForm.resources
+H:\SE361\Visual Studio 2010\Projects\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.ScheduleForm.resources
+H:\SE361\Visual Studio 2010\Projects\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\SE361\Visual Studio 2010\Projects\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\SE361\Visual Studio 2010\Projects\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\SE361-JustTheJob.exe
+H:\SE361\Visual Studio 2010\Projects\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\SE361-JustTheJob.xml
+H:\SE361\Visual Studio 2010\Projects\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\SE361-JustTheJob.pdb
+H:\SE361\Visual Studio 2010\Projects\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.CustomerInfoForm.resources
+H:\SE361\Visual Studio 2010\Projects\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.CustomerListForm.resources
+H:\SE361\Visual Studio 2010\Projects\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.EmployeeInfo.resources
+H:\SE361\Visual Studio 2010\Projects\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.EmployeeListForm.resources
+H:\SE361\Visual Studio 2010\Projects\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.JobEditForm.resources
+H:\SE361\Visual Studio 2010\Projects\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.JobListForm.resources
+H:\SE361\Visual Studio 2010\Projects\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.NewAppointment.resources
+H:\SE361\Visual Studio 2010\Projects\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.NewEmployee.resources
+H:\SE361\Visual Studio 2010\Projects\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.NewInvoiceForm.resources
+H:\SE361\Visual Studio 2010\Projects\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.NewJobForm.resources
+H:\SE361\Visual Studio 2010\Projects\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.PrintReceiptForm.resources
+H:\SE361\Visual Studio 2010\Projects\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.RecordPaymentForm.resources
+H:\SE361\Visual Studio 2010\Projects\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.ScheduleChangeForm.resources
+H:\SE361\Visual Studio 2010\Projects\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.ShowInvoiceForm.resources
+H:\SE361\Visual Studio 2010\Projects\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.ViewScheduleForm.resources
+H:\SE361\Visual Studio 2010\Projects\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.loginForm.resources
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\SE361-JustTheJob.exe
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\SE361-JustTheJob.xml
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\SE361-JustTheJob.pdb
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\bin\Debug\SE361-JustTheJob.exe
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\bin\Debug\SE361-JustTheJob.pdb
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\bin\Debug\SE361-JustTheJob.xml
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.CustomerForm.resources
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.CustomerInfoForm.resources
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.CustomerListForm.resources
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.EmployeeInfo.resources
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.EmployeeListForm.resources
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.EmployeesForm.resources
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.JobEditForm.resources
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.JobListForm.resources
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.loginForm.resources
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.NewAppointment.resources
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.NewEmployee.resources
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.NewCustomerForm.resources
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.InvoiceForm.resources
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.JobForm.resources
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.Mainform.resources
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.Resources.resources
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.NewInvoiceForm.resources
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.NewJobForm.resources
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.PaymentForm.resources
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.PrintReceiptForm.resources
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.RecordPaymentForm.resources
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.ScheduleChangeForm.resources
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.ScheduleForm.resources
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.ShowInvoiceForm.resources
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.ViewScheduleForm.resources
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\SE361-JustTheJob.vbproj.GenerateResource.Cache
+T:\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\SE361-JustTheJob.exe
+T:\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\SE361-JustTheJob.xml
+T:\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\SE361-JustTheJob.pdb
+T:\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\bin\Debug\SE361-JustTheJob.exe
+T:\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\bin\Debug\SE361-JustTheJob.pdb
+T:\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\bin\Debug\SE361-JustTheJob.xml
+T:\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.CustomerForm.resources
+T:\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.CustomerInfoForm.resources
+T:\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.CustomerListForm.resources
+T:\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.EmployeeInfo.resources
+T:\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.EmployeeListForm.resources
+T:\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.EmployeesForm.resources
+T:\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.JobEditForm.resources
+T:\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.JobListForm.resources
+T:\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.loginForm.resources
+T:\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.NewAppointment.resources
+T:\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.NewEmployee.resources
+T:\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.NewCustomerForm.resources
+T:\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.InvoiceForm.resources
+T:\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.JobForm.resources
+T:\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.Mainform.resources
+T:\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.Resources.resources
+T:\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.NewInvoiceForm.resources
+T:\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.NewJobForm.resources
+T:\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.PaymentForm.resources
+T:\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.PrintReceiptForm.resources
+T:\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.RecordPaymentForm.resources
+T:\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.ScheduleChangeForm.resources
+T:\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.ScheduleForm.resources
+T:\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.ShowInvoiceForm.resources
+T:\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.ViewScheduleForm.resources
+T:\Files\SE463 (Software Testing)\Project\SE361-JustTheJob\SE361-JustTheJob\obj\x86\Debug\SE361-JustTheJob.vbproj.GenerateResource.Cache
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob (Stage 1)\SE361-JustTheJob\obj\x86\Debug\SE361-JustTheJob.exe
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob (Stage 1)\SE361-JustTheJob\obj\x86\Debug\SE361-JustTheJob.xml
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob (Stage 1)\SE361-JustTheJob\obj\x86\Debug\SE361-JustTheJob.pdb
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob (Stage 1)\SE361-JustTheJob\bin\Debug\SE361-JustTheJob.exe
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob (Stage 1)\SE361-JustTheJob\bin\Debug\SE361-JustTheJob.pdb
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob (Stage 1)\SE361-JustTheJob\bin\Debug\SE361-JustTheJob.xml
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob (Stage 1)\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.CustomerForm.resources
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob (Stage 1)\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.CustomerInfoForm.resources
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob (Stage 1)\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.CustomerListForm.resources
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob (Stage 1)\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.EmployeeInfo.resources
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob (Stage 1)\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.EmployeeListForm.resources
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob (Stage 1)\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.EmployeesForm.resources
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob (Stage 1)\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.JobEditForm.resources
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob (Stage 1)\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.JobListForm.resources
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob (Stage 1)\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.loginForm.resources
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob (Stage 1)\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.NewAppointment.resources
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob (Stage 1)\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.NewEmployee.resources
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob (Stage 1)\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.NewCustomerForm.resources
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob (Stage 1)\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.InvoiceForm.resources
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob (Stage 1)\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.JobForm.resources
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob (Stage 1)\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.Mainform.resources
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob (Stage 1)\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.Resources.resources
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob (Stage 1)\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.NewInvoiceForm.resources
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob (Stage 1)\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.NewJobForm.resources
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob (Stage 1)\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.PaymentForm.resources
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob (Stage 1)\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.PrintReceiptForm.resources
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob (Stage 1)\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.RecordPaymentForm.resources
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob (Stage 1)\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.ScheduleChangeForm.resources
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob (Stage 1)\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.ScheduleForm.resources
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob (Stage 1)\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.ShowInvoiceForm.resources
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob (Stage 1)\SE361-JustTheJob\obj\x86\Debug\WindowsApplication1.ViewScheduleForm.resources
+\\thomas\smbateng\Files\SE463 (Software Testing)\Project\SE361-JustTheJob (Stage 1)\SE361-JustTheJob\obj\x86\Debug\SE361-JustTheJob.vbproj.GenerateResource.Cache

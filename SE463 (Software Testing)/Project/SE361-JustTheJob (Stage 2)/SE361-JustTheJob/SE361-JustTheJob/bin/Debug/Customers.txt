@@ -1,0 +1,7 @@
+<name>Allyson Nafziger     <address>654 Lakeside   <phone>4444444444 <email>herEmail@butler.edu
+<name>Brandon Weber       <address>654 Melbourne    <phone>1234567895 <email>bweber@butler.edu
+<name>Eric Sanders <address>123 Hampton <phone>2222222222 <email>elsander@butler.edu
+<name>Jacc <address>2 <phone>(219)-718-4598 <email>a
+<name>Eric <address>21 <phone>(219)-7184598 <email>a
+<name>Shaun <address>ssdsd <phone>(555)-555-5555 <email>sdsd
+<name>x <address>xccx <phone>(666)-666-6666 <email>bcvb

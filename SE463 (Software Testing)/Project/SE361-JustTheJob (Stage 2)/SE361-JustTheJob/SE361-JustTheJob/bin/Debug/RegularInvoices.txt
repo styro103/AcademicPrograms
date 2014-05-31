@@ -1,0 +1,2 @@
+<id>0002 <name>Brandon Weber <type>Regular <employee>Him <payment>200 <paymentMethod>Credit <complete>4/22/13 <amountPaid>200 <week>Monday 03/12/2013
+<id>0003 <name>Eric Sander <type>Regular <employee>Himself <payment>20000 <paymentMethod>Debit <complete>12/31/2013 <amountPaid>15000 <week>31/05/2013

@@ -1,0 +1,4 @@
+<name>Butler Cleaning solutions <client>Butler <location>Butler Campus <start>now <deadLine>later <description>this is it <lead>I am <employee1> <employee2> <employee3> <leadTitle>The manager <title1> <title2> <title3>
+<name>Butler University <client>Butler <location>Indianapolis <start>10/10/2006 <deadLine>10/24/2006 <description>Clean stuff <lead>Brandon <employee1>Devin <employee2>Eric <employee3> <leadTitle>Boss <title1>Other Boss <title2>Third Boss <title3>
+<name>Another Job <client>Someone <location>Somewhere <start>04/16/2013 <deadLine>04/18/2013 <description>Clean other stuff <lead>Devin <employee1>Eric <employee2>Brandon <employee3> <leadTitle>Boss <title1>Other Boss <title2>Third Boss <title3>
+<name> <client> <location> <start> <deadLine> <description> <lead> <employee1> <employee2> <employee3> <leadTitle> <title1> <title2> <title3>
