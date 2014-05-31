@@ -1,0 +1,27 @@
+Player 1 plays in column 1.
+Computer plays in column 4.
+Player 1 plays in column 1.
+Computer plays in column 2.
+Player 1 plays in column 2.
+Computer plays in column 7.
+Player 1 plays in column 4.
+Computer plays in column 6.
+Player 1 plays in column 3.
+Computer plays in column 4.
+Player 1 plays in column 3.
+
+|---------------------------|
+|   |   |   |   |   |   |   |
+|---------------------------|
+|   |   |   |   |   |   |   |
+|---------------------------|
+|   |   |   |   |   |   |   |
+|---------------------------|
+|   |   |   | O |   |   |   |
+|---------------------------|
+| X | X | X | X |   |   |   |
+|---------------------------|
+| X | O | X | O |   | O | O |
+|---------------------------|
+
+Player one wins!
