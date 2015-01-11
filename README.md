@@ -1,4 +1,4 @@
 Public-Programs
 ===============
 
-Programs done throughout years of school.
+Programs done throughout years of school. Languages included, but not limitied to, C, Java, Visual Basic, and MATLAB.
